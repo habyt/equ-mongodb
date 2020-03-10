@@ -38,7 +38,8 @@
     ]
   },
   "prettier": {
-    "semi": false
+    "semi": false,
+    "singleQuote": false
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
