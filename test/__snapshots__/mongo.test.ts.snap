@@ -3,9 +3,7 @@
 exports[`equ-mongodb should convert a neq expression 1`] = `
 Object {
   "path": Object {
-    "$not": Object {
-      "$eq": 1,
-    },
+    "$ne": 1,
   },
 }
 `;
@@ -33,8 +31,6 @@ Object {
   },
 }
 `;
-
-exports[`equ-mongodb should throw an error on using contains with a number 1`] = `"invalid expression: ct 1. Value is a number but must be string"`;
 
 exports[`equ-mongodb should translate a simple gte query 1`] = `
 Object {

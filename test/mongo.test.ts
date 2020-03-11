@@ -23,10 +23,6 @@ describe("equ-mongodb", () => {
         expect(result).toMatchSnapshot()
     })
 
-    it("should throw an error on using contains with a number", () => {
-        expect(() => equToMongoDB("path[ct:1]")).toThrowErrorMatchingSnapshot()
-    })
-
     it("should convert a regex expression", () => {
         const result = equToMongoDB('path[rgx:"as.f"]')
         expect(result).toMatchSnapshot()
