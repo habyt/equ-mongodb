@@ -1,5 +1,5 @@
 {
-  "name": "@homefully/equ-mongodb",
+  "name": "@equ-lang/mongodb",
   "version": "0.0.2",
   "description": "",
   "main": "build/index.js",
@@ -23,6 +23,7 @@
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^25.1.4",
+    "@types/mongodb": "^3.5.2",
     "auto": "^9.19.3",
     "jest": "^25.1.0",
     "jest-github-actions-reporter": "^1.0.2",
@@ -42,6 +43,10 @@
     "singleQuote": false
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "dependencies": {
+    "@equ-lang/parser": "^0.2.0"
   }
 }
