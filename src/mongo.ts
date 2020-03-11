@@ -114,7 +114,7 @@ function convertExpressionOperand<TSchema>(
             >
         }
         case "ct": {
-            if (expression.valueType === "number") {
+            if (expression.valueType !== "string") {
                 mongoError(
                     "invalid expression: " +
                         expression.expressionType +
