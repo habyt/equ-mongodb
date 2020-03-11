@@ -115,9 +115,7 @@ function convertExpressionOperand<TSchema>(
         }
         case "ct": {
             const str = expression.value.toString()
-            return { [path]: { $regex: str } } as FilterQuery<
-                TSchema
-            >
+            return { [path]: { $regex: str } } as FilterQuery<TSchema>
         }
         case "rgx": {
             return { [path]: { $regex: expression.value } } as FilterQuery<
