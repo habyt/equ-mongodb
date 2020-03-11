@@ -114,16 +114,8 @@ function convertExpressionOperand<TSchema>(
             >
         }
         case "ct": {
-            if (expression.valueType !== "string") {
-                mongoError(
-                    "invalid expression: " +
-                        expression.expressionType +
-                        " " +
-                        expression.value +
-                        ". Value is a number but must be string"
-                )
-            }
-            return { [path]: { $regex: expression.value } } as FilterQuery<
+            const str = expression.value.toString()
+            return { [path]: { $regex: str } } as FilterQuery<
                 TSchema
             >
         }
