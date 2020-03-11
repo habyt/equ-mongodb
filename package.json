@@ -1,5 +1,5 @@
 {
-  "name": "@homefully/equ-mongodb",
+  "name": "@equ-lang/mongodb",
   "version": "0.0.2",
   "description": "",
   "main": "build/index.js",
