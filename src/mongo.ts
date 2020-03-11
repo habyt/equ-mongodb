@@ -134,7 +134,7 @@ function convertExpressionOperand<TSchema>(
         }
         case "neq": {
             return {
-                [path]: { $not: { $eq: expression.value } }
+                [path]: { $ne: expression.value }
             } as FilterQuery<TSchema>
         }
         case "ex": {
