@@ -1,0 +1,123 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`equ-mongodb should convert a neq expression 1`] = `
+Object {
+  "path": Object {
+    "$not": Object {
+      "$eq": 1,
+    },
+  },
+}
+`;
+
+exports[`equ-mongodb should convert a regex expression 1`] = `
+Object {
+  "path": Object {
+    "$regex": "as.f",
+  },
+}
+`;
+
+exports[`equ-mongodb should convert an ex expression 1`] = `
+Object {
+  "path": Object {
+    "$exists": true,
+  },
+}
+`;
+
+exports[`equ-mongodb should convert an ex expression 2`] = `
+Object {
+  "path": Object {
+    "$exists": true,
+  },
+}
+`;
+
+exports[`equ-mongodb should throw an error on using contains with a number 1`] = `"invalid expression: ct 1. Value is a number but must be string"`;
+
+exports[`equ-mongodb should translate a simple gte query 1`] = `
+Object {
+  "path": Object {
+    "$gte": 1,
+  },
+}
+`;
+
+exports[`equ-mongodb should translate a simple lte query 1`] = `
+Object {
+  "path": Object {
+    "$lte": 1,
+  },
+}
+`;
+
+exports[`equ-mongodb should translate a simple query 1`] = `
+Object {
+  "path": Object {
+    "$eq": 1,
+  },
+}
+`;
+
+exports[`equ-mongodb should translate the example to a mongodb query 1`] = `
+Object {
+  "$and": Array [
+    Object {
+      "$or": Array [
+        Object {
+          "age": Object {
+            "$eq": 15,
+          },
+        },
+        Object {
+          "$and": Array [
+            Object {
+              "age": Object {
+                "$lt": -10,
+              },
+            },
+            Object {
+              "age": Object {
+                "$gt": 4.5,
+              },
+            },
+          ],
+        },
+      ],
+    },
+    Object {
+      "$or": Array [
+        Object {
+          "$and": Array [
+            Object {
+              "email": Object {
+                "$regex": "bar",
+              },
+            },
+            Object {
+              "email": Object {
+                "$regex": "foo",
+              },
+            },
+          ],
+        },
+        Object {
+          "$or": Array [
+            Object {
+              "name.first": Object {
+                "$eq": "bar",
+              },
+            },
+            Object {
+              "name.first": Object {
+                "$eq": "foo",
+              },
+            },
+          ],
+        },
+      ],
+    },
+  ],
+}
+`;
