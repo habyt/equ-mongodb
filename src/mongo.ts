@@ -154,9 +154,7 @@ export function equToMongoDB<TSchema>(equ: string): FilterQuery<TSchema> {
     return toMongo(result)
 }
 
-function toMongo<TSchema>(
-    input: Array<ParseItem>
-): FilterQuery<TSchema> {
+function toMongo<TSchema>(input: Array<ParseItem>): FilterQuery<TSchema> {
     const start = input.pop() ?? mongoError("expected something")
 
     return convertOperand(start, input)

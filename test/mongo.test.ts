@@ -28,7 +28,7 @@ describe("equ-mongodb", () => {
     })
 
     it("should convert a regex expression", () => {
-        const result = equToMongoDB("path[rgx:\"as.f\"]")
+        const result = equToMongoDB('path[rgx:"as.f"]')
         expect(result).toMatchSnapshot()
     })
 
@@ -47,4 +47,3 @@ describe("equ-mongodb", () => {
         expect(result).toMatchSnapshot()
     })
 })
-
