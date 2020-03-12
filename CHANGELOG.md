@@ -1,3 +1,15 @@
+# v0.2.0 (Thu Mar 12 2020)
+
+#### 🚀 Enhancement
+
+- Add new error reporting to equ-mongodb [#3](https://github.com/homefully/equ-mongodb/pull/3) ([@mhlz](https://github.com/mhlz))
+
+#### Authors: 1
+
+- Mischa Holz ([@mhlz](https://github.com/mhlz))
+
+---
+
 # v0.1.0 (Wed Mar 11 2020)
 
 #### 🚀 Enhancement
