@@ -7,12 +7,7 @@ import {
     ExpressionItem,
     parse
 } from "@equ-lang/parser"
-
-export class MongoConversionError extends Error {
-    constructor(msg?: string) {
-        super(msg)
-    }
-}
+import { MongoConversionError } from "./error"
 
 function mongoError(msg?: string): never {
     throw new MongoConversionError(msg)
