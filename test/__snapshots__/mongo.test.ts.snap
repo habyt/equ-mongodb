@@ -27,7 +27,7 @@ Object {
 exports[`equ-mongodb should convert an ex expression 2`] = `
 Object {
   "path": Object {
-    "$exists": true,
+    "$exists": false,
   },
 }
 `;

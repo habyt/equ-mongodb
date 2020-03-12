@@ -35,11 +35,9 @@ describe("equ-mongodb", () => {
 
     it("should convert an ex expression", () => {
         const result = equToMongoDB("path[ex:true]")
-        console.log(result)
         expect(result).toMatchSnapshot()
 
         const result2 = equToMongoDB("path[ex:false]")
-        console.log(result2)
-        expect(result).toMatchSnapshot()
+        expect(result2).toMatchSnapshot()
     })
 })
