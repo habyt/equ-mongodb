@@ -1,3 +1,15 @@
+# v0.3.0 (Wed Mar 25 2020)
+
+#### 🚀 Enhancement
+
+- :arrow_up: Update dependencies [#7](https://github.com/homefully/equ-mongodb/pull/7) ([@mhlz](https://github.com/mhlz))
+
+#### Authors: 1
+
+- Mischa Holz ([@mhlz](https://github.com/mhlz))
+
+---
+
 # v0.2.1 (Mon Mar 23 2020)
 
 #### 🐛 Bug Fix
