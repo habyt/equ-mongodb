@@ -47,6 +47,6 @@
     "access": "public"
   },
   "dependencies": {
-    "@equ-lang/parser": "^0.3.0"
+    "@equ-lang/parser": "^0.4.0"
   }
 }
