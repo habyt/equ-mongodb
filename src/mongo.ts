@@ -5,7 +5,7 @@ import {
     FilterOperator,
     ExpressionOperator,
     ExpressionItem,
-    parse
+    parse,
 } from "@equ-lang/parser"
 import { MongoConversionError } from "./error"
 
@@ -119,7 +119,7 @@ function convertExpressionOperand<TSchema>(
         }
         case "neq": {
             return {
-                [path]: { $ne: expression.value }
+                [path]: { $ne: expression.value },
             } as FilterQuery<TSchema>
         }
         case "ex": {

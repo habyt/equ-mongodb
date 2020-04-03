@@ -11,8 +11,8 @@
     "test": "tsc --noEmit && jest",
     "test:ci": "jest --reporters=default --reporters=jest-github-actions-reporter",
     "test:watch": "jest --watch",
-    "lint": "prettier -c src/**/*.{ts,json,js} test/**/*.{ts,json,js}",
-    "lint:fix": "prettier --write src/**/*.{ts,json,js} test/**/*.{ts,json,js}",
+    "lint": "prettier -c src/**.ts test/**.ts src/**/*.ts test/**/*.ts",
+    "lint:fix": "prettier --write src/**.ts test/**.ts src/**/*.ts test/**/*.ts",
     "build": "tsc"
   },
   "author": "homefully",
