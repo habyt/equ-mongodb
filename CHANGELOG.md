@@ -1,3 +1,15 @@
+# v0.3.5 (Fri Apr 03 2020)
+
+#### 🐛 Bug Fix
+
+- Bump ts-jest from 25.2.1 to 25.3.0 [#9](https://github.com/homefully/equ-mongodb/pull/9) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### Authors: 1
+
+- [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot])
+
+---
+
 # v0.3.4 (Fri Apr 03 2020)
 
 #### 🐛 Bug Fix
