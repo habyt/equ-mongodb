@@ -1,3 +1,15 @@
+# v0.3.10 (Thu Apr 16 2020)
+
+#### 🐛 Bug Fix
+
+- Bump @types/mongodb from 3.5.4 to 3.5.5 [#20](https://github.com/homefully/equ-mongodb/pull/20) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### Authors: 1
+
+- [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot])
+
+---
+
 # v0.3.9 (Thu Apr 16 2020)
 
 #### 🐛 Bug Fix
