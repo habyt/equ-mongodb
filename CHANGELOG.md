@@ -1,3 +1,15 @@
+# v0.3.9 (Thu Apr 16 2020)
+
+#### 🐛 Bug Fix
+
+- Bump jest from 25.2.4 to 25.3.0 [#21](https://github.com/homefully/equ-mongodb/pull/21) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### Authors: 1
+
+- [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot])
+
+---
+
 # v0.3.8 (Thu Apr 16 2020)
 
 #### 🐛 Bug Fix
