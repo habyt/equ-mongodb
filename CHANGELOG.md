@@ -1,3 +1,15 @@
+# v0.3.8 (Thu Apr 16 2020)
+
+#### 🐛 Bug Fix
+
+- Bump auto from 9.25.0 to 9.26.8 [#22](https://github.com/homefully/equ-mongodb/pull/22) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### Authors: 1
+
+- [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot])
+
+---
+
 # v0.3.7 (Thu Apr 16 2020)
 
 #### 🐛 Bug Fix
