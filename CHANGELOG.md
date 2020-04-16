@@ -1,3 +1,15 @@
+# v0.3.7 (Thu Apr 16 2020)
+
+#### 🐛 Bug Fix
+
+- Bump prettier from 2.0.2 to 2.0.4 [#23](https://github.com/homefully/equ-mongodb/pull/23) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### Authors: 1
+
+- [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot])
+
+---
+
 # v0.3.6 (Thu Apr 16 2020)
 
 #### 🐛 Bug Fix
