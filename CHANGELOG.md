@@ -1,3 +1,15 @@
+# v0.3.6 (Thu Apr 16 2020)
+
+#### 🐛 Bug Fix
+
+- Bump @equ-lang/parser from 0.4.0 to 0.4.3 [#19](https://github.com/homefully/equ-mongodb/pull/19) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### Authors: 1
+
+- [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot])
+
+---
+
 # v0.3.5 (Fri Apr 03 2020)
 
 #### 🐛 Bug Fix
