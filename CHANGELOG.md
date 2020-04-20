@@ -1,3 +1,15 @@
+# v0.3.13 (Mon Apr 20 2020)
+
+#### 🐛 Bug Fix
+
+- :arrow_up: [#29](https://github.com/homefully/equ-mongodb/pull/29) ([@mhlz](https://github.com/mhlz))
+
+#### Authors: 1
+
+- Mischa Holz ([@mhlz](https://github.com/mhlz))
+
+---
+
 # v0.3.12 (Thu Apr 16 2020)
 
 #### 🐛 Bug Fix
