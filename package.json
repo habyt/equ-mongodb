@@ -22,7 +22,7 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "@types/jest": "^25.2.3",
+    "@types/jest": "^26.0.3",
     "@types/mongodb": "^3.5.18",
     "auto": "^9.36.2",
     "jest": "^26.0.1",
