@@ -1,3 +1,16 @@
+# v0.3.17 (Mon Sep 07 2020)
+
+#### 🐛 Bug Fix
+
+- Pin dependencies [#60](https://github.com/homefully/equ-mongodb/pull/60) ([@renovate-bot](https://github.com/renovate-bot) [@renovate[bot]](https://github.com/renovate[bot]))
+
+#### Authors: 2
+
+- [@renovate[bot]](https://github.com/renovate[bot])
+- WhiteSource Renovate ([@renovate-bot](https://github.com/renovate-bot))
+
+---
+
 # v0.3.16 (Mon Sep 07 2020)
 
 #### 🐛 Bug Fix
