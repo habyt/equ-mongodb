@@ -1,3 +1,15 @@
+# v0.3.22 (Mon Sep 07 2020)
+
+#### 🐛 Bug Fix
+
+- Update jest [#65](https://github.com/homefully/equ-mongodb/pull/65) ([@renovate-bot](https://github.com/renovate-bot))
+
+#### Authors: 1
+
+- WhiteSource Renovate ([@renovate-bot](https://github.com/renovate-bot))
+
+---
+
 # v0.3.21 (Mon Sep 07 2020)
 
 #### 🐛 Bug Fix
