@@ -1,0 +1,3 @@
+{
+  "extends": ["github>homefully/renovate", ":pinVersions"]
+}
