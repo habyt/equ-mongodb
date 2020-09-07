@@ -1,3 +1,15 @@
+# v0.3.23 (Mon Sep 07 2020)
+
+#### 🐛 Bug Fix
+
+- Update dependency @types/jest to v26 [#66](https://github.com/homefully/equ-mongodb/pull/66) ([@renovate-bot](https://github.com/renovate-bot))
+
+#### Authors: 1
+
+- WhiteSource Renovate ([@renovate-bot](https://github.com/renovate-bot))
+
+---
+
 # v0.3.22 (Mon Sep 07 2020)
 
 #### 🐛 Bug Fix
