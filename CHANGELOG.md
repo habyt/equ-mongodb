@@ -1,3 +1,15 @@
+# v0.3.16 (Mon Sep 07 2020)
+
+#### 🐛 Bug Fix
+
+- Update workflows [#58](https://github.com/homefully/equ-mongodb/pull/58) ([@mhlz](https://github.com/mhlz))
+
+#### Authors: 1
+
+- Mischa Holz ([@mhlz](https://github.com/mhlz))
+
+---
+
 # v0.3.15 (Mon Jun 15 2020)
 
 #### 🐛 Bug Fix
