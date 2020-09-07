@@ -22,14 +22,14 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "@types/jest": "^25.2.3",
-    "@types/mongodb": "^3.5.18",
-    "auto": "^9.36.2",
-    "jest": "^26.0.1",
-    "jest-github-actions-reporter": "^1.0.2",
-    "prettier": "^2.0.5",
-    "ts-jest": "^26.0.0",
-    "typescript": "^3.9.3"
+    "@types/jest": "25.2.3",
+    "@types/mongodb": "3.5.18",
+    "auto": "9.36.2",
+    "jest": "26.0.1",
+    "jest-github-actions-reporter": "1.0.2",
+    "prettier": "2.0.5",
+    "ts-jest": "26.1.0",
+    "typescript": "3.9.3"
   },
   "jest": {
     "preset": "ts-jest",
@@ -47,6 +47,6 @@
     "access": "public"
   },
   "dependencies": {
-    "@equ-lang/parser": "^0.4.9"
+    "@equ-lang/parser": "0.4.10"
   }
 }
