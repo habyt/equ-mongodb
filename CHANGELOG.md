@@ -1,3 +1,21 @@
+# v0.3.24 (Tue Sep 08 2020)
+
+#### 🐛 Bug Fix
+
+- Update dependency typescript to v4 [#67](https://github.com/homefully/equ-mongodb/pull/67) ([@renovate-bot](https://github.com/renovate-bot) [@renovate[bot]](https://github.com/renovate[bot]))
+
+#### ⚠️ Pushed to `master`
+
+- Fetch tags as well ([@mhlz](https://github.com/mhlz))
+
+#### Authors: 3
+
+- [@renovate[bot]](https://github.com/renovate[bot])
+- Mischa Holz ([@mhlz](https://github.com/mhlz))
+- WhiteSource Renovate ([@renovate-bot](https://github.com/renovate-bot))
+
+---
+
 # v0.3.23 (Mon Sep 07 2020)
 
 #### 🐛 Bug Fix
