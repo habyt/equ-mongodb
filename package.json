@@ -1,6 +1,6 @@
 {
   "name": "@equ-lang/mongodb",
-  "version": "0.3.27",
+  "version": "0.3.28",
   "description": "",
   "main": "build/index.js",
   "files": [
