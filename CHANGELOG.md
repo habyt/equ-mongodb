@@ -1,3 +1,15 @@
+# v0.3.28 (Sat Sep 19 2020)
+
+#### 🐛 Bug Fix
+
+- Update dependency prettier to v2.1.2 [#71](https://github.com/homefully/equ-mongodb/pull/71) ([@renovate-bot](https://github.com/renovate-bot))
+
+#### Authors: 1
+
+- WhiteSource Renovate ([@renovate-bot](https://github.com/renovate-bot))
+
+---
+
 # v0.3.27 (Tue Sep 15 2020)
 
 #### 🐛 Bug Fix
