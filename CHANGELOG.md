@@ -1,3 +1,15 @@
+# v0.3.30 (Mon Sep 21 2020)
+
+#### 🐛 Bug Fix
+
+- Update dependency typescript to v4.0.3 [#73](https://github.com/homefully/equ-mongodb/pull/73) ([@renovate-bot](https://github.com/renovate-bot))
+
+#### Authors: 1
+
+- WhiteSource Renovate ([@renovate-bot](https://github.com/renovate-bot))
+
+---
+
 # v0.3.29 (Sat Sep 19 2020)
 
 #### 🐛 Bug Fix
