@@ -1,3 +1,15 @@
+# v0.3.33 (Fri Oct 02 2020)
+
+#### 🐛 Bug Fix
+
+- Update dependency ts-jest to v26.4.1 [#76](https://github.com/homefully/equ-mongodb/pull/76) ([@renovate-bot](https://github.com/renovate-bot))
+
+#### Authors: 1
+
+- WhiteSource Renovate ([@renovate-bot](https://github.com/renovate-bot))
+
+---
+
 # v0.3.32 (Sat Sep 26 2020)
 
 #### 🐛 Bug Fix
