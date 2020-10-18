@@ -1,3 +1,15 @@
+# v0.3.40 (Sun Oct 18 2020)
+
+#### 🐛 Bug Fix
+
+- Update dependency auto to v9.59.1 [#83](https://github.com/homefully/equ-mongodb/pull/83) ([@renovate-bot](https://github.com/renovate-bot))
+
+#### Authors: 1
+
+- WhiteSource Renovate ([@renovate-bot](https://github.com/renovate-bot))
+
+---
+
 # v0.3.39 (Sat Oct 17 2020)
 
 #### 🐛 Bug Fix
