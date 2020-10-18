@@ -24,7 +24,7 @@
   "devDependencies": {
     "@types/jest": "26.0.14",
     "@types/mongodb": "3.5.27",
-    "auto": "9.57.0",
+    "auto": "9.59.1",
     "jest": "26.5.3",
     "jest-github-actions-reporter": "1.0.2",
     "prettier": "2.1.2",
