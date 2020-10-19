@@ -1,3 +1,15 @@
+# v0.3.41 (Mon Oct 19 2020)
+
+#### 🐛 Bug Fix
+
+- Update dependency @types/mongodb to v3.5.28 [#84](https://github.com/homefully/equ-mongodb/pull/84) ([@renovate-bot](https://github.com/renovate-bot))
+
+#### Authors: 1
+
+- WhiteSource Renovate ([@renovate-bot](https://github.com/renovate-bot))
+
+---
+
 # v0.3.40 (Sun Oct 18 2020)
 
 #### 🐛 Bug Fix
