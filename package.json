@@ -23,7 +23,7 @@
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "26.0.14",
-    "@types/mongodb": "3.5.28",
+    "@types/mongodb": "3.5.31",
     "auto": "9.59.1",
     "jest": "26.5.3",
     "jest-github-actions-reporter": "1.0.2",
