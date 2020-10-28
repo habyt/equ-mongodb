@@ -1,3 +1,15 @@
+# v0.3.42 (Wed Oct 28 2020)
+
+#### 🐛 Bug Fix
+
+- Update dependency @equ-lang/parser to v0.5.12 [#87](https://github.com/homefully/equ-mongodb/pull/87) ([@renovate-bot](https://github.com/renovate-bot))
+
+#### Authors: 1
+
+- WhiteSource Renovate ([@renovate-bot](https://github.com/renovate-bot))
+
+---
+
 # v0.3.41 (Mon Oct 19 2020)
 
 #### 🐛 Bug Fix
